@@ -1,7 +1,5 @@
 # reduxstagram
 
-Learning Redux~~
+Learning Redux.
 
     npm i
-
-    123
